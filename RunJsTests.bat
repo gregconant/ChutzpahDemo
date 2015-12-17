@@ -1,0 +1,1 @@
+.\packages\Chutzpah.4.1.0\tools\chutzpah.console.exe .\ChutzpahDemo\Scripts\tests\test.js
